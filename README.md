@@ -11,7 +11,13 @@ The instructions can be found at [Samman Technical Coaching: Twelve Days of Chri
 - Must use Test Driven Development (TDD)
   - In other words, must include tests
 
-_Note: "small" means the program should not include the entire text of the lyrics or read a file that contains them._
+## Notes
+
+By "small" we mean the program should not include the entire text of the lyrics or read a file that contains them.
+
+This is not meant to be the _smallest_ code (eg. code golf) but focused more on what potential "production"-level, tested code might look like
+
+## Lyrics
 
 The lyrics are as follows:
 
