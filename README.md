@@ -1,7 +1,7 @@
 # twelve-days-tdd-kata
 A friend of mine posted this TDD kata the other day and I thought it was interesting. I thought it would be neat to do this in a few different languages (maybe lol)
 
-The instructions can be found at [Samman Technical Coaching: Twelve Days of Christmas Song](https://sammancoaching.org/kata_descriptions/christmas_song.html)
+The original instructions can be found at [Samman Technical Coaching: Twelve Days of Christmas Song](https://sammancoaching.org/kata_descriptions/christmas_song.html)
 
 # Twelve Days of Christmas Song
 
@@ -15,7 +15,8 @@ The instructions can be found at [Samman Technical Coaching: Twelve Days of Chri
 
 By "small" we mean the program should not include the entire text of the lyrics or read a file that contains them.
 
-This is not meant to be the _smallest_ code (eg. code golf) but focused more on what potential "production"-level, tested code might look like
+This is not meant to be the _smallest_ code (eg. code golf) but focused more of what potential production-level, tested code might look like
+- Production-level code means readable, testable, and easily modifiable (easily refactored) code which may not necessarily be the most "clever" code
 
 ## Lyrics
 
