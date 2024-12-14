@@ -8,6 +8,8 @@ The instructions can be found at [Samman Technical Coaching: Twelve Days of Chri
 - Write a small program that outputs the full lyrics of the carol "The Twelve Days of Christmas". 
 - You must reproduce the words in the correct order. 
 - The case, format, and punctuation should be suitable for a carol singer to use, similar to the example below.
+- Must use Test Driven Development (TDD)
+  - In other words, must include tests
 
 _Note: "small" means the program should not include the entire text of the lyrics or read a file that contains them._
 
