@@ -1,7 +1,7 @@
 # twelve-days-tdd-kata
 A friend of mine posted this TDD kata the other day and I thought it was interesting. I thought it would be neat to do this in a few different languages (maybe lol)
 
-The instructions can be found at [Samman Technical Coaching: Twelve Days of Christmas Song](https://sammancoaching.org/kata_descriptions/christmas_song.html)
+The original instructions can be found at [Samman Technical Coaching: Twelve Days of Christmas Song](https://sammancoaching.org/kata_descriptions/christmas_song.html)
 
 # Twelve Days of Christmas Song
 
