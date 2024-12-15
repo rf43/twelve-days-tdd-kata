@@ -1,4 +1,4 @@
-import io.cursedfunction.buildSong
+import io.cursedfunction.buildCarol
 import kotlin.test.Test
 import kotlin.test.assertEquals
 
@@ -122,7 +122,7 @@ class TwelveDaysSongTest {
             A partridge in a pear tree.
         """.trimIndent()
 
-        val actual = buildSong()
+        val actual = buildCarol()
 
         assertEquals(expected, actual)
     }
